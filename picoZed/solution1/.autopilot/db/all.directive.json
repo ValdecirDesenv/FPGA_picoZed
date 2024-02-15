@@ -1,0 +1,23 @@
+[
+  {
+    "functionLabel": "",
+    "functionName": "basic_output",
+    "id": 0,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "basic_output"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "/home/vdc/dev/FPGA/FPGA_picoZed/picoZed/solution1/csynth.tcl",
+    "sourceLine": 14,
+    "success": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+    "0": {
+        "name": "basic_output",
+        "file": "basic_output.cpp",
+        "fileloc": "1",
+        "instructions": "6",
+        "total_instructions": "6",
+        "calls": "",
+        "basicblocks": "1"
+    }
+}

@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Feb 14 21:15:53 2024
+# Process ID: 502773
+# Current directory: /home/vdc/dev/FPGA/FPGA_picoZed/picoZed/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/vdc/dev/FPGA/FPGA_picoZed/picoZed/solution1/impl/ip/vivado.log
+# Journal file: /home/vdc/dev/FPGA/FPGA_picoZed/picoZed/solution1/impl/ip/vivado.jou
+# Running On: vdc, OS: Linux, CPU Frequency: 3281.663 MHz, CPU Physical cores: 4, Host memory: 16620 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+ipx::create_core: Time (s): cpu = 00:00:09 ; elapsed = 00:00:10 . Memory (MB): peak = 1313.680 ; gain = 13.023 ; free physical = 751 ; free virtual = 6778
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/home/vdc/vivado/Vivado/2023.1/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Wed Feb 14 21:16:10 2024...
