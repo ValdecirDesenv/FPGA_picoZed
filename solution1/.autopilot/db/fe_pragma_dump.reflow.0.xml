@@ -1,0 +1,4 @@
+<pragmas>
+<pragma file="FPGA_picoZed/basic_output.c" line="2" pragmaType="interface" parentfunction="basic_output" mode="ap_none" port="o" name="" register="0"/>
+<pragma file="FPGA_picoZed/basic_output.c" line="3" pragmaType="interface" parentfunction="basic_output" mode="ap_ctrl_none" port="return" name=""/>
+</pragmas>
